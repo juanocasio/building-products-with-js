@@ -1,0 +1,8 @@
+{
+  "name": "experts-server",
+  "version": "0.1.0",
+  "description": "Experts REST backend",
+  "main": "index.js",
+  "author": "Juan Ocasio",
+  "license": "MIT"
+}
